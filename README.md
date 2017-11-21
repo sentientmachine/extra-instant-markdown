@@ -6,7 +6,11 @@
 
 As a bonus, [github-flavored-markdown][gfm] is supported, and styles used while previewing are the same as those github uses!
 
-[![Screenshot][ss]][ssbig]
+Screenshot shows a vim editor on the left and a brower on the right.  He opens a markdown.md file, and the browser opens automatically.  Then you make an edit, the browser updates real time!  Then when you save and close, the browser closes.
+
+Video: https://www.youtube.com/watch?v=tTaRUvMWY0M
+
+Dead image link: [![Screenshot][ss]][ssbig]
 
 ## Installation
 
